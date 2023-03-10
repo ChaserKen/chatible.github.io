@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712945983332",
+    "project_id": "chatible-1ac10",
+    "storage_bucket": "chatible-1ac10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712945983332:android:fb690af2432e09d463a471",
+        "android_client_info": {
+          "package_name": "com.duy.chatible02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712945983332-pk7egvso4h9iuejmhke0h51i4spdklf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuAiw-6un-WN_nm3Jj_JCY0Xw8yGEOiyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712945983332-pk7egvso4h9iuejmhke0h51i4spdklf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
